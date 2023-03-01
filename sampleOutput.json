@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "Chennai Super Kings v Kolkata Knight Riders - Cricket - BBC Sport",
+      "description": "Find out the in depth batting and bowling figures for Chennai Super Kings v Kolkata Knight Riders in the Indian Premier League on BBC Sport.",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/ECKO53610",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+      "publishedAt": "2022-03-26T19:52:24.0113855Z",
+      "content": "<table><tr><th>Batter</th><th>How Out</th><th>Bowler</th><th>Runs</th><th>Balls</th><th>4s</th><th>6s</th><th>Mins</th><th>SR</th></tr>\r\n<tr><th>Total</th><th>(20.0 overs)</th><th>131-for5wickets</th… [+4252 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "England look to take final two West Indies wickets",
+      "description": "Follow live text commentary from day three of the third Test between West Indies and England at National Cricket Stadium, St. George's.",
+      "url": "http://www.bbc.co.uk/sport/live/cricket/56549600",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+      "publishedAt": "2022-03-26T13:52:25.8553916Z",
+      "content": "Cast your mind back to Lord's Test in August of last year and you can understand why there might be a bit of fog clouding Joe Root's thinking today.\r\nIf you can remember, Mohammed Shami and Jasprit B… [+444 chars]"
+    },
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": null,
+      "title": "India confirm plans for women's IPL next year",
+      "description": "India's cricket board is planning to launch the women's edition of the Indian Premier League Twenty20 tournament next year.",
+      "url": "https://www.news24.com/sport/Cricket/IPL/india-confirm-plans-for-womens-ipl-next-year-20220326",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10186/02f460b6febc417fb43c1934974bef15.jpg",
+      "publishedAt": "2022-03-26T11:29:41+00:00",
+      "content": "India's cricket board is planning to launch the women's edition of the Indian Premier League Twenty20 tournament next year.\r\n\"It has to be approved by the (annual general meeting),\" Sourav Ganguly, p… [+1140 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
